@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- 🌱 I’m currently learning Machine Learning, Data Science and Imagens Processing with Python and R.
+- 🌱 I’m currently learning Machine Learning, Data Science, Computer Vision and Imagens Processing with Python and R.
 ##
 <div align="center">
   <a href="https://github.com/Mertreas">
