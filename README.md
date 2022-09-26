@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 - 🌱 I’m currently learning Machine Learning, Data Science, Computer Vision and Image Processing with Python and R.
-- 🌱 I'm currently also learning HTML, CSS, JavaScript and React.
+- 🌱 I'm currently also learning HTML, CSS and JavaScript.
 ##
 <div align="center">
   <a href="https://github.com/Mertreas">
